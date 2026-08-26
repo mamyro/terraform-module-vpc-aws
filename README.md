@@ -3,7 +3,7 @@
 ## Example
 
 
-```hcl
+```sh
 module "vpc-aws" {
   source  = "mamyro/vpc-aws/module"
   version = "0.0.2"
